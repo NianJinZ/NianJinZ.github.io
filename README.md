@@ -1,2 +1,2 @@
-# njz.github.io
+# NianJinZ.github.io
 My first website.
